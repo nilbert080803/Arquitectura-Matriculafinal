@@ -1,0 +1,40 @@
+Nombre: ISMAEL
+Usuario: david@gmail.com
+Clave: 123
+
+Nombre: diego
+Usuario: diego@gmail.com
+Clave: 123
+
+Nombre: paty
+Usuario: paty@gmail.com
+Clave: 123
+
+Nombre: Yoni
+Usuario: Yoni@gmail.com
+Clave: 1234
+
+Nombre: nilbert
+Usuario: nilbert@gmail.com
+Clave: 123
+
+Nombre: pelado
+Usuario: pelado@gmail.com
+Clave: 123
+
+Nombre: felix
+Usuario: felix@gmail.com
+Clave: 123
+
+Nombre: jeydy
+Usuario: jeydy@gmail.com
+Clave: 123
+
+Nombre: Pepe
+Usuario: pepe@gmail.com
+Clave: 123
+
+Nombre: Pedro
+Usuario: pedro@gmail.com
+Clave: 123
+
